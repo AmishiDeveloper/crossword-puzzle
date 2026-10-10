@@ -4,7 +4,6 @@ Crossword Puzzle is a customizable word search game built with Flutter, where us
 
 ---
 
-
 ## Features
 
 - **Custom Grid Setup:** Allows users to define custom matrix sizes and populate them with custom letters.
@@ -15,7 +14,6 @@ Crossword Puzzle is a customizable word search game built with Flutter, where us
 
 ---
 
-
 ## Flutter Version
 
 Currently, the app uses the following version of Flutter and Dart:
@@ -25,13 +23,11 @@ Currently, the app uses the following version of Flutter and Dart:
 
 ---
 
-
 ## Packages Used
 
 - **flutter_screenutil:** Resolution-independent UI element sizing, spacing, and responsive font scaling. 
 
 ---
-
 
 ## Architecture
 
@@ -59,7 +55,6 @@ Crossword Puzzle follows a clean, feature-driven layered architecture:
 
 ---
 
-
 ## Setup Instructions
 
 **1. Clone the project repository to your local environment:**
@@ -80,7 +75,6 @@ flutter run
 
 ---
 
-
 ## Limitations
 
 - **Search Directions:** Currently searches words in 3 primary directions (Horizontal East, Vertical South, and South-East Diagonal); reverse directions are planned for future updates.
@@ -88,7 +82,6 @@ flutter run
 - **Input Matching:** The total number of letters entered must match the exact grid dimensions (Rows × Columns).
 
 ---
-
 
 ## Project Assets & Resources
 
